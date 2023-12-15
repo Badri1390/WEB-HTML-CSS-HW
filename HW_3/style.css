@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin-top: 45px;
+}
+
+.nav {
+  padding: 15px 0px 15px 0px;
+}
+
+.main {
+  margin-top: 84px;
+  padding-bottom: 162px;
+}
+
+.footer {
+  padding: 97px 0px 96px 0px;
+}
