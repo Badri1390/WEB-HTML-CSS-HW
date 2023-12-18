@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container_wrapper {
+  max-width: 1920px;
+  max-height: 943px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  margin-top: 45px;
+  display: flex;
+  gap: 500px;
+}
+
+.nav {
+  padding: 15px 0px 15px 0px;
+}
+
+.main {
+  margin-top: 89px;
+  padding-bottom: 162px;
+  display: flex;
+  gap: 40.94px;
+}
+
+.main_text h1 {
+  color: #000;
+  font-family: Gilroy-Bold;
+  font-size: 60px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+
+.main_text p {
+  margin-top: 17px;
+  color: #888;
+  font-family: Gilroy-Medium;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.main_img img {
+  width: 544.814px;
+  height: 374.843px;
+  
+}
+
+.main_buttons {
+  margin-top: 37px;
+}
+
+.main_buttons .start_btn {
+  width: 140px;
+  height: 50px;
+  border: none;
+  border-radius: 50px;
+  background: #f25822;
+  box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.2);
+
+  color: #fff;
+  font-family: Gilroy-Bold;
+  font-size: 15px;
+}
+
+.main_buttons .watch_btn {
+  color: #aaa;
+  font-family: Gilroy-Bold;
+  font-size: 15px;
+  font-weight: 400;
+  border: none;
+  background-color: #ffffff;
+  padding-left: 72px;
+}
+
+.footer {
+  padding: 97px 0px 96px 0px;
+  height: 243px;
+}
